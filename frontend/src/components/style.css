@@ -1,0 +1,103 @@
+.navbar {
+    background-color: #43766C;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    color: #F8FAE5;
+    transition: all 0.3s ease;
+}
+
+.navbar-brand:hover {
+    color: #B19470;
+    transition: all 0.3s ease;
+}
+
+
+.footer {
+    position: relative;
+    width: 100%;
+    background-color: #43766C;
+}
+
+.footer-text {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.footer-link {
+    color: #F8FAE5;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.footer-link:hover {
+    color: #B19470;
+    text-decoration: underline;
+    transition: all 0.3s ease;
+}
+
+.custom-table {
+    background-color: #F8FAE5;
+  }
+  
+  .custom-table thead {
+    background-color:#43766C;
+    color: #F8FAE5;
+  }
+  
+  .custom-table tbody {
+    background-color: #F8FAE5;
+  }
+  
+  .custom-table td {
+    background-color:#F8FAE5;
+    color: #000000;
+  }
+
+  .custom-table th{
+    background-color:#43766C;
+    color: #F8FAE5;
+  }
+  
+  .custom-table button {
+    color: #F8FAE5;
+    border-color: #F8FAE5;
+  }
+  
+  .custom-table button:hover {
+    color: #F8FAE5;
+    background-color: #43766C;
+    border-color: #43766C;
+  }
+
+  .text-center {
+    text-align: center;
+  }
+  
+  .btn-primary {
+    background-color: #43766C;
+    border-color: #43766C;
+    color: #F8FAE5;
+  }
+  
+  .btn-primary:hover {
+    background-color: #5ea899;
+    border-color: #5ea899;
+    color: #F8FAE5;
+  }
+
+.btn-secondary{
+  background-color: #820300; 
+  border-color: #820300;
+  color: #F8FAE5;
+}
+.btn-secondary:hover:hover {
+  background-color: #9f2422; 
+  border-color: #9f2422;
+  color: #F8FAE5;
+}
+
+.card{
+  background-color: #F8FAE5;
+}
